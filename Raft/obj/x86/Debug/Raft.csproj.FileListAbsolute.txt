@@ -1,0 +1,7 @@
+d:\users\fang_j\documents\visual studio 2010\Projects\Serilization\Raft\obj\x86\Debug\Raft.csprojResolveAssemblyReference.cache
+d:\users\fang_j\documents\visual studio 2010\Projects\Serilization\Raft\bin\Debug\Raft.dll
+d:\users\fang_j\documents\visual studio 2010\Projects\Serilization\Raft\bin\Debug\Raft.pdb
+d:\users\fang_j\documents\visual studio 2010\Projects\Serilization\Raft\bin\Debug\log4net.dll
+d:\users\fang_j\documents\visual studio 2010\Projects\Serilization\Raft\bin\Debug\log4net.xml
+d:\users\fang_j\documents\visual studio 2010\Projects\Serilization\Raft\obj\x86\Debug\Raft.dll
+d:\users\fang_j\documents\visual studio 2010\Projects\Serilization\Raft\obj\x86\Debug\Raft.pdb
